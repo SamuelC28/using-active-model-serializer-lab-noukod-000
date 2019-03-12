@@ -44,7 +44,10 @@ group :development, :test do
 end
 
 gem 'active_model_serializers'
+<<<<<<< HEAD
 gem 'rails-controller-testing'
+=======
+>>>>>>> 7efbc4d71311aff04f5d6c53aef68be4aae29920
 
 group :development do
   # Access an IRB console on exception pages or by using <%= console %> in views
